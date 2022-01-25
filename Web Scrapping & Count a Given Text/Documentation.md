@@ -1,9 +1,9 @@
-## <p align=left>Fetch All Data From Any Webpage & Save as a Text File then Search & Count a Given Text<br> <br> </p> 
+## <p align=left>Fetch All Data From Any Webpage & Save as a Text File then Search & Count a Given Text Using Bash Scripting<br> <br> </p> 
 | **SL** | **Topic** |
 | --- | --- |
 | 01 | [What is Web Scraping?](#01) |
 | 02 | [Uses of Web Scraping](#02) |
-| 03 | [Connect to the Azure Account via Powershell](#03)  |
+| 03 | [Prepare Bash Script](#03)  |
 | 04 | [Azure VM Creation Powershell Script](#04) |
 
 ### <a name="01">:diamond_shape_with_a_dot_inside: &nbsp;What is Web Scraping?</a>
@@ -17,4 +17,6 @@ Web scraping is also called Web data extraction, screen scraping or Web harvesti
 - Such data can then be processed in order to glean insights as required. As a result, it also makes it possible to keep track of the brand and reputation of a company.
 - Companies can also use Web scraping for email marketing. They can collect Email ID’s from various sites using web scraping and then send bulk promotional and marketing Emails to all the people owning these Email ID’s.
 - Web scraping can be used for market research by companies. High-quality web scraped data obtained in large volumes can be very helpful for companies in analyzing consumer trends and understanding which direction the company should move in the future. 
+
+### <a name="03">:diamond_shape_with_a_dot_inside: &nbsp;Prepare Bash Script</a>
 
