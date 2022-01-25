@@ -1,5 +1,5 @@
 
-## <p align=center>Fetch All Data From Any Webpage & Save as a Text File then Search & Count a Given Text Using Bash Scripting<br> <br> </p> 
+## <p align=center>Fetch All Data From Any Webpage & Save as a Text File then Search & Count a Given Text Using Bash Scripting (Web Scraping)<br> <br> </p> 
 | **SL** | **Topic** |
 | --- | --- |
 | 01 | [What is Web Scraping?](#01) |
