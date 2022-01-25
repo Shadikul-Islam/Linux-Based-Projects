@@ -20,7 +20,7 @@ Web scraping is also called Web data extraction, screen scraping or Web harvesti
 - Web scraping can be used for market research by companies. High-quality web scraped data obtained in large volumes can be very helpful for companies in analyzing consumer trends and understanding which direction the company should move in the future. 
 
 ### <a name="03">:diamond_shape_with_a_dot_inside: &nbsp;Prepare Bash Script</a>
-We need to prepare a bash script that will take URL for scrapping and **Text** for searching and counting. After Scrapping convert the data into plain text and save the plain text as a .txt file. Then count the given text from the file and print the output.
+We need to prepare a bash script that will take **URL** for scrapping and **Text** for searching and counting. After Scrapping convert the data into plain text and save the plain text as a .txt file. Then count the given text from the file and print the output.
 
 ```Bash
 #!/bin/bash
@@ -39,7 +39,7 @@ You need to follow the following steps to run this script.
 2. Wirte ```./ScriptName.sh``` and press **Enter**.
 3. Provide the URL. You have to provide the full URL like this: https://www.lipsum.com/ and press **Enter**.
 4. Provide the text that you want to search and press **Enter**.
-5. Now the script will download all the HTML and text then convert it into plain text and store it into a local drive as a .txt file. Then search the given text. Finally, it will show the total counted text number as result.
+5. Now the script will download all the HTML and text then convert it into plain text and store it into a local drive as a .txt file. Then it will search the given text. Finally, it will show the total counted text number as result.
 <br> <br> <img src= "https://github.com/Shadikul-Islam/Linux-Based-Projects/blob/master/Web%20Scrapping%20%26%20Count%20a%20Given%20Text%20Using%20Bash%20Script/Images/Image-1.png" alt="Script Output"> <br><br>
 
 #### :diamond_shape_with_a_dot_inside: &nbsp;That’s it. We have learned How to Fetch All Data From Any Webpage & Save it as a Text File then Search & Count a Given Text Using Bash Scripting. :diamond_shape_with_a_dot_inside: &nbsp;
